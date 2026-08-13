@@ -1,0 +1,516 @@
+HTTrack3.49-6 launched on Mon, 10 Aug 2026 10:15:21 at https://ristechy.com
+(httrack https://ristechy.com )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:16:50	Error: 	"Not Found" (404) at link https://ristechy.com/i (from https://ristechy.com/)
+10:16:50	Error: 	"Not Found" (404) at link https://ristechy.com/Firefox/ (from https://ristechy.com/)
+10:17:32	Error: 	"Forbidden" (403) at link https://ristechy.com/xmlrpc.php?rsd (from https://ristechy.com/)
+10:25:25	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/themes/jannah/assets/ilightbox/dark-skin/ilightbox/closedhand.cur (from https://ristechy.com/wp-content/cache/min/1/wp-content/themes/jannah/assets/ilightbox/dark-skin/skin.css?ver=1786249974)
+10:25:55	Error: 	"Not Found" (404) at link https://ristechy.com/games/i (from https://ristechy.com/games/soccer)
+10:25:55	Error: 	"Not Found" (404) at link https://ristechy.com/games/Firefox/ (from https://ristechy.com/games/soccer)
+10:27:37	Error: 	"Not Found" (404) at link https://ristechy.com/android/i (from https://ristechy.com/android/communication)
+10:27:37	Error: 	"Not Found" (404) at link https://ristechy.com/android/Firefox/ (from https://ristechy.com/android/communication)
+10:31:24	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/uploads/2021/11/RisTechy.png.webp 1x (from https://ristechy.com/contact)
+10:31:32	Warning: 	Moved Permanently for https://ristechy.com/?p=13254
+10:31:32	Warning: 	File has moved from https://ristechy.com/?p=13254 to https://ristechy.com/contact
+10:31:38	Warning: 	Moved Permanently for https://ristechy.com/?p=11694
+10:31:38	Warning: 	File has moved from https://ristechy.com/?p=11694 to https://ristechy.com/best-ppsspp-games-download-android-psp
+10:32:13	Warning: 	Moved Permanently for https://ristechy.com/?p=13985
+10:32:13	Warning: 	File has moved from https://ristechy.com/?p=13985 to https://ristechy.com/modern-combat-4-mod-apk-mc4
+10:32:27	Warning: 	Moved Permanently for https://ristechy.com/?p=5528
+10:32:27	Warning: 	File has moved from https://ristechy.com/?p=5528 to https://ristechy.com/need-for-speed-most-wanted-apk-mod
+10:32:27	Warning: 	Moved Permanently for https://ristechy.com/?p=5696
+10:32:27	Warning: 	File has moved from https://ristechy.com/?p=5696 to https://ristechy.com/the-amazing-spider-man-apk-obb-data
+10:32:27	Warning: 	Moved Permanently for https://ristechy.com/?p=10382
+10:32:27	Warning: 	File has moved from https://ristechy.com/?p=10382 to https://ristechy.com/modern-combat-3-mod-apk-fallen-nation
+10:32:27	Warning: 	Moved Permanently for https://ristechy.com/?p=19687
+10:32:27	Warning: 	File has moved from https://ristechy.com/?p=19687 to https://ristechy.com/subway-surfers-city-mod-apk
+10:32:36	Warning: 	Moved Permanently for https://ristechy.com/?p=18349
+10:32:36	Warning: 	File has moved from https://ristechy.com/?p=18349 to https://ristechy.com/football-league-2025-mod-apk
+10:33:19	Warning: 	Moved Permanently for https://ristechy.com/?p=19723
+10:33:19	Warning: 	File has moved from https://ristechy.com/?p=19723 to https://ristechy.com/ufl-soccer-game-apk
+10:33:33	Warning: 	Moved Permanently for https://ristechy.com/?p=18443
+10:33:33	Warning: 	File has moved from https://ristechy.com/?p=18443 to https://ristechy.com/soccer-manager-mod-apk
+10:33:42	Warning: 	Moved Permanently for https://ristechy.com/?p=15740
+10:33:42	Warning: 	File has moved from https://ristechy.com/?p=15740 to https://ristechy.com/total-football-apk-obb
+10:33:42	Error: 	"Not Found" (404) at link https://ristechy.com/404 (from https://ristechy.com/total-football-apk-obb)
+10:33:42	Warning: 	Moved Permanently for https://ristechy.com/?p=2325
+10:33:42	Warning: 	File has moved from https://ristechy.com/?p=2325 to https://ristechy.com/shadow-fight-2-mod-apk-2
+10:33:56	Warning: 	Moved Permanently for https://ristechy.com/?p=19458
+10:33:56	Warning: 	File has moved from https://ristechy.com/?p=19458 to https://ristechy.com/dream-league-2026-dls-26-mod-apk
+10:34:00	Warning: 	Moved Permanently for https://ristechy.com/?p=4004
+10:34:00	Warning: 	File has moved from https://ristechy.com/?p=4004 to https://ristechy.com/ppsspp-gold-apk
+10:34:40	Warning: 	Moved Permanently for https://ristechy.com/?p=2717
+10:34:40	Warning: 	File has moved from https://ristechy.com/?p=2717 to https://ristechy.com/spotify-premium-apk
+10:34:40	Warning: 	Moved Permanently for https://ristechy.com/?p=4693
+10:34:40	Warning: 	File has moved from https://ristechy.com/?p=4693 to https://ristechy.com/psiphon-pro-unlimited-speed-apk
+10:34:42	Warning: 	Moved Permanently for https://ristechy.com/?p=6815
+10:34:42	Warning: 	File has moved from https://ristechy.com/?p=6815 to https://ristechy.com/ppsspp-psp-emulator-apk
+10:34:42	Warning: 	Moved Permanently for https://ristechy.com/?p=10482
+10:34:42	Warning: 	File has moved from https://ristechy.com/?p=10482 to https://ristechy.com/epsxe-full-apk-ps1-emulator-android
+10:34:42	Warning: 	Moved Permanently for https://ristechy.com/?p=18366
+10:34:42	Warning: 	File has moved from https://ristechy.com/?p=18366 to https://ristechy.com/rpcs3-apk-android
+10:34:58	Warning: 	Moved Permanently for https://ristechy.com/?p=7620
+10:34:58	Warning: 	File has moved from https://ristechy.com/?p=7620 to https://ristechy.com/betika-app-apk-download
+10:34:58	Warning: 	Moved Permanently for https://ristechy.com/?p=10563
+10:34:58	Warning: 	File has moved from https://ristechy.com/?p=10563 to https://ristechy.com/nordvpn-apk-android
+10:34:58	Warning: 	Moved Permanently for https://ristechy.com/?p=9465
+10:34:58	Warning: 	File has moved from https://ristechy.com/?p=9465 to https://ristechy.com/traffic-rider-mod-apk-download
+10:34:58	Warning: 	Moved Permanently for https://ristechy.com/?p=13574
+10:34:58	Warning: 	File has moved from https://ristechy.com/?p=13574 to https://ristechy.com/aethersx2-apk-android
+10:34:58	Warning: 	Moved Permanently for https://ristechy.com/?p=13248
+10:34:58	Warning: 	File has moved from https://ristechy.com/?p=13248 to https://ristechy.com/privacy
+10:34:58	Warning: 	Moved Permanently for https://ristechy.com/?p=13263
+10:34:58	Warning: 	File has moved from https://ristechy.com/?p=13263 to https://ristechy.com/about
+10:34:58	Error: 	"Not Found" (404) at link https://ristechy.com/games/page/i (from https://ristechy.com/games/page/2)
+10:34:58	Error: 	"Not Found" (404) at link https://ristechy.com/games/page/Firefox/ (from https://ristechy.com/games/page/2)
+10:35:41	Error: 	"Not Found" (404) at link https://ristechy.com/games/soccer/page/i (from https://ristechy.com/games/soccer/page/2)
+10:35:41	Error: 	"Not Found" (404) at link https://ristechy.com/games/soccer/page/Firefox/ (from https://ristechy.com/games/soccer/page/2)
+10:37:50	Warning: 	Moved Permanently for https://ristechy.com/?p=19940
+10:37:50	Warning: 	File has moved from https://ristechy.com/?p=19940 to https://ristechy.com/soccer-superstar-mod-apk
+10:37:50	Warning: 	Moved Permanently for https://ristechy.com/?p=18871
+10:37:50	Warning: 	File has moved from https://ristechy.com/?p=18871 to https://ristechy.com/pes-2026-ppsspp-psp-iso-efootball
+10:38:51	Warning: 	Moved Permanently for https://ristechy.com/?p=19123
+10:38:51	Warning: 	File has moved from https://ristechy.com/?p=19123 to https://ristechy.com/first-touch-soccer-2026-fts-mod-apk
+10:39:38	Warning: 	Moved Permanently for https://ristechy.com/?p=18943
+10:39:38	Warning: 	File has moved from https://ristechy.com/?p=18943 to https://ristechy.com/dfl-2026-mod-apk-offline
+10:39:38	Warning: 	Moved Permanently for https://ristechy.com/?p=19255
+10:39:38	Warning: 	File has moved from https://ristechy.com/?p=19255 to https://ristechy.com/football-manager-2026-mobile-fm-26-apk
+10:40:03	Error: 	"Not Found" (404) at link https://ristechy.com/cdn-cgi/l/email-protection (from https://ristechy.com/football-manager-2026-mobile-fm-26-apk)
+10:40:03	Error: 	"Not Found" (404) at link https://ristechy.com/android/page/i (from https://ristechy.com/android/page/2)
+10:40:03	Error: 	"Not Found" (404) at link https://ristechy.com/android/page/Firefox/ (from https://ristechy.com/android/page/2)
+10:40:34	Warning: 	Moved Permanently for https://ristechy.com/?p=6347
+10:40:34	Warning: 	File has moved from https://ristechy.com/?p=6347 to https://ristechy.com/sportybet-app-download
+10:40:34	Warning: 	Moved Permanently for https://ristechy.com/?p=5601
+10:40:34	Warning: 	File has moved from https://ristechy.com/?p=5601 to https://ristechy.com/bet9ja-old-mobile-coupon-check
+10:40:34	Warning: 	Moved Permanently for https://ristechy.com/?p=4911
+10:40:34	Warning: 	File has moved from https://ristechy.com/?p=4911 to https://ristechy.com/sportpesa-app-download-android
+10:40:34	Warning: 	Moved Permanently for https://ristechy.com/?p=3999
+10:40:34	Warning: 	File has moved from https://ristechy.com/?p=3999 to https://ristechy.com/zarchiver-pro-apk-free-download
+10:40:34	Error: 	"Not Found" (404) at link https://ristechy.com/android/communication/page/i (from https://ristechy.com/android/communication/page/2)
+10:40:34	Error: 	"Not Found" (404) at link https://ristechy.com/android/communication/page/Firefox/ (from https://ristechy.com/android/communication/page/2)
+10:40:55	Warning: 	Moved Permanently for https://ristechy.com/?p=6640
+10:40:55	Warning: 	File has moved from https://ristechy.com/?p=6640 to https://ristechy.com/hotspot-shield-vpn-premium-mod-apk
+10:40:55	Warning: 	Moved Permanently for https://ristechy.com/?p=11371
+10:40:55	Warning: 	File has moved from https://ristechy.com/?p=11371 to https://ristechy.com/l4d-ping-tool-apk-download
+10:40:55	Warning: 	Moved Permanently for https://ristechy.com/?p=11372
+10:40:55	Warning: 	File has moved from https://ristechy.com/?p=11372 to https://ristechy.com/reality-vpn-apk
+10:40:55	Error: 	"Not Found" (404) at link https://ristechy.com/download-reality-vpn-38-apk-and-enjoy (from https://ristechy.com/reality-vpn-apk)
+10:40:57	Warning: 	Moved Permanently for https://ristechy.com/?p=4001
+10:40:57	Warning: 	File has moved from https://ristechy.com/?p=4001 to https://ristechy.com/psiphon-82-handler
+10:40:59	Warning: 	Moved Permanently for https://ristechy.com/?p=10446
+10:40:59	Warning: 	File has moved from https://ristechy.com/?p=10446 to https://ristechy.com/psiphon-pro-lite-handler-apk-download
+10:40:59	Warning: 	Moved Permanently for https://ristechy.com/?p=123
+10:40:59	Warning: 	File has moved from https://ristechy.com/?p=123 to https://ristechy.com/download-psiphon-pro-apk
+10:40:59	Warning: 	Moved Permanently for https://ristechy.com/?p=124
+10:40:59	Warning: 	File has moved from https://ristechy.com/?p=124 to https://ristechy.com/psiphon-pro-handler-142-apk-download
+10:40:59	Warning: 	Moved Permanently for https://ristechy.com/?p=126
+10:40:59	Warning: 	File has moved from https://ristechy.com/?p=126 to https://ristechy.com/queencee-vpn-apk-download
+10:40:59	Warning: 	Moved Permanently for https://ristechy.com/?p=114
+10:40:59	Warning: 	File has moved from https://ristechy.com/?p=114 to https://ristechy.com/download-psiphon-handler-108
+10:40:59	Error: 	"Not Found" (404) at link https://ristechy.com/dlskits/page/i (from https://ristechy.com/dlskits/page/2)
+10:40:59	Error: 	"Not Found" (404) at link https://ristechy.com/dlskits/page/Firefox/ (from https://ristechy.com/dlskits/page/2)
+10:41:11	Warning: 	Moved Permanently for https://ristechy.com/?p=4805
+10:41:11	Warning: 	File has moved from https://ristechy.com/?p=4805 to https://ristechy.com/juventus-kit-dream-league-soccer
+10:41:11	Warning: 	Moved Permanently for https://ristechy.com/?p=7251
+10:41:11	Warning: 	File has moved from https://ristechy.com/?p=7251 to https://ristechy.com/manchester-united-kits-dream-league-soccer
+10:41:18	Warning: 	Moved Permanently for https://ristechy.com/?p=7264
+10:41:18	Warning: 	File has moved from https://ristechy.com/?p=7264 to https://ristechy.com/chelsea-kits-2019-2020-dream-league-soccer-2019
+10:41:18	Warning: 	Moved Permanently for https://ristechy.com/?p=7274
+10:41:18	Warning: 	File has moved from https://ristechy.com/?p=7274 to https://ristechy.com/manchester-city-kit-dream-league-soccer
+10:41:18	Warning: 	Moved Permanently for https://ristechy.com/?p=7324
+10:41:18	Warning: 	File has moved from https://ristechy.com/?p=7324 to https://ristechy.com/tottenham-hotspur-kit-dream-league-soccer
+10:41:24	Warning: 	Moved Permanently for https://ristechy.com/?p=7285
+10:41:24	Warning: 	File has moved from https://ristechy.com/?p=7285 to https://ristechy.com/liverpool-dls-kit-dream-league-soccer
+10:41:24	Warning: 	Moved Permanently for https://ristechy.com/?p=7424
+10:41:24	Warning: 	File has moved from https://ristechy.com/?p=7424 to https://ristechy.com/psg-dls-kit-dream-league
+10:41:32	Warning: 	Moved Permanently for https://ristechy.com/?p=7136
+10:41:32	Warning: 	File has moved from https://ristechy.com/?p=7136 to https://ristechy.com/real-madrid-dls-kits
+10:41:32	Warning: 	Moved Permanently for https://ristechy.com/?p=4822
+10:41:32	Warning: 	File has moved from https://ristechy.com/?p=4822 to https://ristechy.com/fc-barcelona-kit-dream-league-soccer
+10:41:32	Warning: 	Moved Permanently for https://ristechy.com/?p=8832
+10:41:32	Warning: 	File has moved from https://ristechy.com/?p=8832 to https://ristechy.com/kits-dream-league-soccer-2020-logos
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2018/11/barcelona-logo.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2019/07/real-madrid-logo-dls-300x300.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2018/11/juventus-logo-DLS.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2019/07/Manchester-City-DLS-Logo-300x300.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2019/07/Manchester-United-DLS-Logo.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2019/07/Logo-Liverpool-DLS-300x300.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Kit-Borussia-Dortmund-DLS-20-Home.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Kit-Borussia-Dortmund-DLS-20-Away.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Kit-Borussia-Dortmund-DLS-20-Third.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Borussia-Dortmund-dls-logo.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Corithians-DLS-Logo.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Corithians-DLS-Logo-300x300.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Kit-Flamengo-DLS-20-Home.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Kit-Flamengo-DLS-20-keeper-away.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Flamengo-DLS_logo.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Untitled481.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/storage/2020/01/Galatasaray-DLS-logo-300x300.png (from https://ristechy.com/kits-dream-league-soccer-2020-logos)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/plugins/wpforms-lite/assets/pro/images/times-solid-white.svg (from https://ristechy.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=2.0.0.2)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/plugins/wpforms-lite/assets/pro/images/camera-video.svg (from https://ristechy.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=2.0.0.2)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/plugins/wpforms-lite/assets/images/crop.svg (from https://ristechy.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=2.0.0.2)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/plugins/wpforms-lite/assets/pro/images/camera-rotate.svg (from https://ristechy.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=2.0.0.2)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/plugins/wpforms-lite/assets/pro/images/camera.svg (from https://ristechy.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=2.0.0.2)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/plugins/wpforms-lite/assets/pro/images/crop.svg (from https://ristechy.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=2.0.0.2)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/plugins/wpforms-lite/assets/pro/images/cancel.svg (from https://ristechy.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=2.0.0.2)
+10:41:32	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/plugins/wpforms-lite/assets/pro/images/trash.svg (from https://ristechy.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=2.0.0.2)
+10:41:32	Warning: 	Moved Permanently for https://ristechy.com/?p=7951
+10:41:32	Warning: 	File has moved from https://ristechy.com/?p=7951 to https://ristechy.com/fifa-2014-apk-obb-data
+10:41:32	Warning: 	Moved Permanently for https://ristechy.com/?p=2206
+10:41:32	Warning: 	File has moved from https://ristechy.com/?p=2206 to https://ristechy.com/pes-2019-ppsspp-iso-english
+10:41:53	Warning: 	Moved Permanently for https://ristechy.com/?p=6388
+10:41:53	Warning: 	File has moved from https://ristechy.com/?p=6388 to https://ristechy.com/pes-2020-iso-ppsspp-psp-download
+10:42:06	Warning: 	Moved Permanently for https://ristechy.com/?p=10509
+10:42:06	Warning: 	File has moved from https://ristechy.com/?p=10509 to https://ristechy.com/subway-surfers-mod-apk-1
+10:42:06	Warning: 	Moved Permanently for https://ristechy.com/?p=5615
+10:42:06	Warning: 	File has moved from https://ristechy.com/?p=5615 to https://ristechy.com/subway-surfers-mod-apk-osmdroid-2
+10:42:06	Warning: 	Moved Permanently for https://ristechy.com/?p=17354
+10:42:06	Warning: 	File has moved from https://ristechy.com/?p=17354 to https://ristechy.com/dfl-2025-mod-fifa-16-apk-obb
+10:42:12	Warning: 	Moved Permanently for https://ristechy.com/?p=16357
+10:42:12	Warning: 	File has moved from https://ristechy.com/?p=16357 to https://ristechy.com/first-touch-soccer-2025-fts-mod-apk
+10:42:56	Warning: 	Moved Permanently for https://ristechy.com/?p=17495
+10:42:56	Warning: 	File has moved from https://ristechy.com/?p=17495 to https://ristechy.com/dream-league-soccer-2025-dls-25-mod-apk
+10:43:07	Warning: 	Moved Permanently for https://ristechy.com/?p=14518
+10:43:07	Warning: 	File has moved from https://ristechy.com/?p=14518 to https://ristechy.com/fifa-soccer-mobile-apk
+10:44:04	Warning: 	Moved Permanently for https://ristechy.com/?p=13035
+10:44:04	Warning: 	File has moved from https://ristechy.com/?p=13035 to https://ristechy.com/efootball-pes-2023-apk-obb-0
+10:44:04	Error: 	"Not Found" (404) at link https://ristechy.com/www.gurubaze.com (from https://ristechy.com/efootball-pes-2023-apk-obb-0)
+10:44:04	Warning: 	Moved Permanently for https://ristechy.com/?p=15638
+10:44:04	Warning: 	File has moved from https://ristechy.com/?p=15638 to https://ristechy.com/football-manager-2024-mobile-fm-apk-2
+10:44:18	Warning: 	Moved Permanently for https://ristechy.com/?p=2255
+10:44:18	Warning: 	File has moved from https://ristechy.com/?p=2255 to https://ristechy.com/shadow-fight-2-mod-level-99-apk-1
+10:44:23	Warning: 	Moved Permanently for https://ristechy.com/?p=6248
+10:44:23	Warning: 	File has moved from https://ristechy.com/?p=6248 to https://ristechy.com/shadow-fight-2-max-level-52-mod-apk-1
+10:44:27	Error: 	"Not Found" (404) at link https://ristechy.com/tag/i (from https://ristechy.com/tag/dream-league-soccer-dls)
+10:44:27	Error: 	"Not Found" (404) at link https://ristechy.com/tag/Firefox/ (from https://ristechy.com/tag/dream-league-soccer-dls)
+10:44:34	Warning: 	Moved Permanently for https://ristechy.com/?p=14093
+10:44:34	Warning: 	File has moved from https://ristechy.com/?p=14093 to https://ristechy.com/pes-2023-ppsspp
+10:44:44	Warning: 	Moved Permanently for https://ristechy.com/?p=16481
+10:44:44	Warning: 	File has moved from https://ristechy.com/?p=16481 to https://ristechy.com/pes-2025-ppsspp-psp-iso-efootball
+10:44:44	Warning: 	Moved Permanently for https://ristechy.com/?p=4848
+10:44:44	Warning: 	File has moved from https://ristechy.com/?p=4848 to https://ristechy.com/old-bet9ja-2-mobile-app-apk
+10:44:44	Warning: 	Moved Permanently for https://ristechy.com/?p=1835
+10:44:44	Warning: 	File has moved from https://ristechy.com/?p=1835 to https://ristechy.com/gta-5-android-apk-data
+10:45:42	Warning: 	Moved Permanently for https://ristechy.com/?p=19932
+10:45:42	Warning: 	File has moved from https://ristechy.com/?p=19932 to https://ristechy.com/car-parking-multiplayer-mod-apk
+10:45:42	Warning: 	Moved Permanently for https://ristechy.com/?p=6611
+10:45:42	Warning: 	File has moved from https://ristechy.com/?p=6611 to https://ristechy.com/call-of-duty-mobile-highly-compressed
+10:45:44	Warning: 	Moved Permanently for https://ristechy.com/?p=4694
+10:45:44	Warning: 	File has moved from https://ristechy.com/?p=4694 to https://ristechy.com/gta-san-andreas-apk-obb-highly-compressed
+10:45:50	Warning: 	Moved Permanently for https://ristechy.com/?p=8062
+10:45:50	Warning: 	File has moved from https://ristechy.com/?p=8062 to https://ristechy.com/monster-hunter-stories-mod-apk
+10:45:50	Warning: 	Moved Permanently for https://ristechy.com/?p=19365
+10:45:50	Warning: 	File has moved from https://ristechy.com/?p=19365 to https://ristechy.com/red-dead-redemption-netflix-mod-apk
+10:46:00	Warning: 	Moved Permanently for https://ristechy.com/?p=19702
+10:46:00	Warning: 	File has moved from https://ristechy.com/?p=19702 to https://ristechy.com/mini-football-mod-apk
+10:46:00	Warning: 	Moved Permanently for https://ristechy.com/?p=19160
+10:46:00	Warning: 	File has moved from https://ristechy.com/?p=19160 to https://ristechy.com/fifa-16-mod-fifa-26-apk-offline
+10:46:00	Warning: 	Moved Permanently for https://ristechy.com/?p=14187
+10:46:00	Warning: 	File has moved from https://ristechy.com/?p=14187 to https://ristechy.com/fifa-16-mod-apk-obb-offline
+10:46:00	Warning: 	Moved Permanently for https://ristechy.com/?p=19052
+10:46:00	Warning: 	File has moved from https://ristechy.com/?p=19052 to https://ristechy.com/fifa-2026-mod-fifa-14-apk-offline
+10:46:25	Warning: 	Moved Permanently for https://ristechy.com/?p=18316
+10:46:25	Warning: 	File has moved from https://ristechy.com/?p=18316 to https://ristechy.com/be-a-pro-football-apk
+10:46:26	Warning: 	Moved Permanently for https://ristechy.com/?p=19793
+10:46:26	Warning: 	File has moved from https://ristechy.com/?p=19793 to https://ristechy.com/winning-eleven-2026-we-2026-mod-apk
+10:46:40	Warning: 	Moved Permanently for https://ristechy.com/?p=17006
+10:46:40	Warning: 	File has moved from https://ristechy.com/?p=17006 to https://ristechy.com/fifa-2025-mod-fifa-14-fc-apk-offline
+10:46:51	Warning: 	Moved Permanently for https://ristechy.com/?p=15182
+10:46:51	Warning: 	File has moved from https://ristechy.com/?p=15182 to https://ristechy.com/pes-2024-ppsspp-psp-iso
+10:46:51	Warning: 	Moved Permanently for https://ristechy.com/?p=11900
+10:46:51	Warning: 	File has moved from https://ristechy.com/?p=11900 to https://ristechy.com/pes-2022-ppsspp-psp-iso
+10:47:13	Warning: 	Moved Permanently for https://ristechy.com/?p=13938
+10:47:13	Warning: 	File has moved from https://ristechy.com/?p=13938 to https://ristechy.com/first-touch-soccer-2023-fts-mod-apk
+10:47:30	Warning: 	Moved Permanently for https://ristechy.com/?p=14743
+10:47:30	Warning: 	File has moved from https://ristechy.com/?p=14743 to https://ristechy.com/first-touch-soccer-2024-fts-mod-apk
+10:47:51	Warning: 	Moved Permanently for https://ristechy.com/?p=14382
+10:47:51	Warning: 	File has moved from https://ristechy.com/?p=14382 to https://ristechy.com/football-manager-2023-mobile-fm-23-apk-0
+10:47:51	Warning: 	Moved Permanently for https://ristechy.com/?p=13018
+10:47:51	Warning: 	File has moved from https://ristechy.com/?p=13018 to https://ristechy.com/football-manager-2022-mobile-fm-apk
+10:48:16	Warning: 	Moved Permanently for https://ristechy.com/?p=8708
+10:48:16	Warning: 	File has moved from https://ristechy.com/?p=8708 to https://ristechy.com/netboom-apk-download
+10:48:16	Warning: 	Moved Permanently for https://ristechy.com/?p=3997
+10:48:16	Warning: 	File has moved from https://ristechy.com/?p=3997 to https://ristechy.com/super-vpn-apk-free-download
+10:48:16	Warning: 	Moved Permanently for https://ristechy.com/?p=5666
+10:48:16	Warning: 	File has moved from https://ristechy.com/?p=5666 to https://ristechy.com/bet9ja-mobile-app-android
+10:48:16	Warning: 	Moved Permanently for https://ristechy.com/?p=5851
+10:48:16	Warning: 	File has moved from https://ristechy.com/?p=5851 to https://ristechy.com/damon-ps2-pro-apk
+10:48:16	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/uploads/2018/01/January82C201744557PMWAT-1.png (from https://ristechy.com/ucmini1042-handler-ui-400-apk-download)
+10:48:16	Warning: 	Moved Permanently for https://ristechy.com/?p=2018
+10:48:16	Warning: 	File has moved from https://ristechy.com/?p=2018 to https://ristechy.com/ucmini1042-handler-ui-400-apk-download
+10:48:16	Warning: 	Moved Permanently for https://ristechy.com/?p=127
+10:48:16	Warning: 	File has moved from https://ristechy.com/?p=127 to https://ristechy.com/download-tweakware-vpn-apk
+10:48:18	Warning: 	Moved Permanently for https://ristechy.com/?p=128
+10:48:18	Warning: 	File has moved from https://ristechy.com/?p=128 to https://ristechy.com/psiphon-89-handler-ui
+10:48:18	Warning: 	Moved Permanently for https://ristechy.com/?p=129
+10:48:18	Warning: 	File has moved from https://ristechy.com/?p=129 to https://ristechy.com/psiphon-91-handler-ui
+10:48:18	Warning: 	Moved Permanently for https://ristechy.com/?p=130
+10:48:18	Warning: 	File has moved from https://ristechy.com/?p=130 to https://ristechy.com/download-psiphon-pro-154-for-android
+10:48:18	Warning: 	Moved Permanently for https://ristechy.com/?p=132
+10:48:18	Warning: 	File has moved from https://ristechy.com/?p=132 to https://ristechy.com/download-psiphon-pro
+10:48:18	Warning: 	Moved Permanently for https://ristechy.com/?p=7338
+10:48:18	Warning: 	File has moved from https://ristechy.com/?p=7338 to https://ristechy.com/corinthians-dls-kit-dream-league
+10:48:18	Warning: 	Moved Permanently for https://ristechy.com/?p=5881
+10:48:18	Warning: 	File has moved from https://ristechy.com/?p=5881 to https://ristechy.com/first-touch-soccer-2020-mod-apk
+10:48:18	Warning: 	Moved Permanently for https://ristechy.com/?p=15779
+10:48:18	Warning: 	File has moved from https://ristechy.com/?p=15779 to https://ristechy.com/dream-league-soccer-2024-dls-24-mod-apk
+10:48:23	Warning: 	Moved Permanently for https://ristechy.com/?p=6014
+10:48:23	Warning: 	File has moved from https://ristechy.com/?p=6014 to https://ristechy.com/dream-league-soccer-2020-mod-apk-3
+10:48:36	Warning: 	Moved Permanently for https://ristechy.com/?p=7022
+10:48:36	Warning: 	File has moved from https://ristechy.com/?p=7022 to https://ristechy.com/pes-2020-lite-ppsspp-psp-iso
+10:48:36	Warning: 	Moved Permanently for https://ristechy.com/?p=7636
+10:48:36	Warning: 	File has moved from https://ristechy.com/?p=7636 to https://ristechy.com/pes-2020-mod-fifa-14-offline-apk
+10:48:48	Error: 	"Not Found" (404) at link https://ristechy.com/fifa-19-ppsspp-iso-android-offline (from https://ristechy.com/pes-2020-mod-fifa-14-offline-apk)
+10:48:48	Warning: 	Moved Permanently for https://ristechy.com/?p=5446
+10:48:48	Warning: 	File has moved from https://ristechy.com/?p=5446 to https://ristechy.com/pes-2019-ppsspp-300-mb-iso-lite
+10:48:48	Warning: 	Moved Permanently for https://ristechy.com/?p=17257
+10:48:48	Warning: 	File has moved from https://ristechy.com/?p=17257 to https://ristechy.com/fifa-2025-ppsspp-mod-14-fc-25-iso
+10:49:01	Warning: 	Moved Permanently for https://ristechy.com/?p=11723
+10:49:01	Warning: 	File has moved from https://ristechy.com/?p=11723 to https://ristechy.com/first-touch-soccer-2022-fts-mod-apk
+10:49:06	Error: 	"Not Found" (404) at link https://ristechy.com/download-fts-18-deluxe-edition-apk-obb-data (from https://ristechy.com/first-touch-soccer-2022-fts-mod-apk)
+10:49:06	Warning: 	Moved Permanently for https://ristechy.com/?p=3996
+10:49:06	Warning: 	File has moved from https://ristechy.com/?p=3996 to https://ristechy.com/first-touch-soccer-2018-hd-fts-18-apk
+10:49:06	Warning: 	Moved Permanently for https://ristechy.com/?p=3946
+10:49:06	Warning: 	File has moved from https://ristechy.com/?p=3946 to https://ristechy.com/first-touch-soccer-2019-mod-fts-19-apk
+10:49:10	Warning: 	Moved Permanently for https://ristechy.com/?p=4000
+10:49:10	Warning: 	File has moved from https://ristechy.com/?p=4000 to https://ristechy.com/dream-league-soccer-2018-dls-18-mod-apk
+10:49:10	Warning: 	Moved Permanently for https://ristechy.com/?p=4691
+10:49:10	Warning: 	File has moved from https://ristechy.com/?p=4691 to https://ristechy.com/dream-league-soccer-2019-mod-apk-obb-1
+10:49:21	Warning: 	Moved Permanently for https://ristechy.com/?p=14229
+10:49:21	Warning: 	File has moved from https://ristechy.com/?p=14229 to https://ristechy.com/fifa-2023-mod-14-apk-obb-offline
+10:49:26	Warning: 	Moved Permanently for https://ristechy.com/?p=12483
+10:49:26	Warning: 	File has moved from https://ristechy.com/?p=12483 to https://ristechy.com/fifa-2022-mod-fifa-14-apk-obb-download
+10:49:36	Warning: 	Moved Permanently for https://ristechy.com/?p=8193
+10:49:36	Warning: 	File has moved from https://ristechy.com/?p=8193 to https://ristechy.com/football-manager-2020-mobile-fm-20-apk-1
+10:49:53	Warning: 	Moved Permanently for https://ristechy.com/?p=10445
+10:49:53	Warning: 	File has moved from https://ristechy.com/?p=10445 to https://ristechy.com/kingroot-60-1-apk-download
+10:49:53	Warning: 	Moved Permanently for https://ristechy.com/download-psiphon-pro-154-for-android/
+10:49:53	Warning: 	File has moved from https://ristechy.com/download-psiphon-pro-154-for-android/ to https://ristechy.com/download-psiphon-pro-154-for-android
+10:49:55	Warning: 	Moved Permanently for https://ristechy.com/?p=2262
+10:49:55	Warning: 	File has moved from https://ristechy.com/?p=2262 to https://ristechy.com/shadow-fight-2-special-edition-mod-apk
+10:49:55	Error: 	"Not Found" (404) at link https://ristechy.com/tag/dream-league-soccer-dls/page/i (from https://ristechy.com/tag/dream-league-soccer-dls/page/2)
+10:49:55	Error: 	"Not Found" (404) at link https://ristechy.com/tag/dream-league-soccer-dls/page/Firefox/ (from https://ristechy.com/tag/dream-league-soccer-dls/page/2)
+10:50:00	Warning: 	Moved Permanently for https://ristechy.com/?p=113
+10:50:00	Warning: 	File has moved from https://ristechy.com/?p=113 to https://ristechy.com/ppsspp-psp-2017-iso-installation
+10:50:03	Warning: 	Moved Permanently for https://ristechy.com/?p=3998
+10:50:03	Warning: 	File has moved from https://ristechy.com/?p=3998 to https://ristechy.com/pes-2018-psp-iso-download
+10:50:05	Warning: 	Moved Permanently for https://ristechy.com/?p=1003
+10:50:05	Warning: 	File has moved from https://ristechy.com/?p=1003 to https://ristechy.com/gta-4-apk-obb-download-android
+10:50:05	Warning: 	Moved Permanently for https://ristechy.com/?p=1005
+10:50:05	Warning: 	File has moved from https://ristechy.com/?p=1005 to https://ristechy.com/gta-3-apk-obb-data-download-android
+10:50:05	Warning: 	Moved Permanently for https://ristechy.com/?p=18395
+10:50:05	Warning: 	File has moved from https://ristechy.com/?p=18395 to https://ristechy.com/gta-vice-city-apk-obb-downloads-1
+10:50:26	Warning: 	Moved Permanently for https://ristechy.com/?p=17769
+10:50:26	Warning: 	File has moved from https://ristechy.com/?p=17769 to https://ristechy.com/naruto-senki-mod
+10:50:31	Warning: 	Moved Permanently for https://ristechy.com/?p=17094
+10:50:31	Warning: 	File has moved from https://ristechy.com/?p=17094 to https://ristechy.com/naruto-ultimate-ninja-storm-1-0-13-apk-mod-offline
+10:50:31	Warning: 	Moved Permanently for https://ristechy.com/?p=2624
+10:50:31	Warning: 	File has moved from https://ristechy.com/?p=2624 to https://ristechy.com/pubg-highly-compressed-android
+10:50:31	Warning: 	Moved Permanently for https://ristechy.com/?p=19566
+10:50:31	Warning: 	File has moved from https://ristechy.com/?p=19566 to https://ristechy.com/stick-war-legacy-mod-apk
+10:50:31	Warning: 	Moved Permanently for https://ristechy.com/?p=15603
+10:50:31	Warning: 	File has moved from https://ristechy.com/?p=15603 to https://ristechy.com/gta-san-andreas-aethersx2-ps2-iso-android-download
+10:50:31	Warning: 	Moved Permanently for https://ristechy.com/?p=5810
+10:50:31	Warning: 	File has moved from https://ristechy.com/?p=5810 to https://ristechy.com/gta-sa-lite-indonesia
+10:50:41	Warning: 	Moved Permanently for https://ristechy.com/?p=19471
+10:50:41	Warning: 	File has moved from https://ristechy.com/?p=19471 to https://ristechy.com/fifa-2026-ppsspp-mod-fc-26-iso
+10:50:41	Warning: 	Moved Permanently for https://ristechy.com/?p=15293
+10:50:41	Warning: 	File has moved from https://ristechy.com/?p=15293 to https://ristechy.com/fifa-2024-mod-fifa-14-fc-apk-offline
+10:50:41	Warning: 	Moved Permanently for https://ristechy.com/?p=14311
+10:50:41	Warning: 	File has moved from https://ristechy.com/?p=14311 to https://ristechy.com/winning-eleven-2023-mod-apk
+10:50:41	Warning: 	Moved Permanently for https://ristechy.com/?p=12551
+10:50:41	Warning: 	File has moved from https://ristechy.com/?p=12551 to https://ristechy.com/winning-eleven-2022-mod-apk
+10:50:41	Warning: 	Moved Permanently for https://ristechy.com/?p=2294
+10:50:41	Warning: 	File has moved from https://ristechy.com/?p=2294 to https://ristechy.com/winning-eleven-2012-warkop-android-apk
+10:50:41	Warning: 	Moved Permanently for https://ristechy.com/?p=9729
+10:50:41	Warning: 	File has moved from https://ristechy.com/?p=9729 to https://ristechy.com/fifa-2021-mod-14-apk-obb-offline
+10:50:48	Warning: 	Moved Permanently for https://ristechy.com/?p=9600
+10:50:48	Warning: 	File has moved from https://ristechy.com/?p=9600 to https://ristechy.com/pes-2021-ppsspp-psp-iso-efootball
+10:51:00	Warning: 	Moved Permanently for https://ristechy.com/?p=10341
+10:51:00	Warning: 	File has moved from https://ristechy.com/?p=10341 to https://ristechy.com/pes-2021-apk-obb-efootball
+10:51:00	Error: 	"Not Found" (404) at link https://ristechy.com/tag/pes-ppsspp-psp-games/page/i (from https://ristechy.com/tag/pes-ppsspp-psp-games/page/2)
+10:51:00	Error: 	"Not Found" (404) at link https://ristechy.com/tag/pes-ppsspp-psp-games/page/Firefox/ (from https://ristechy.com/tag/pes-ppsspp-psp-games/page/2)
+10:51:00	Warning: 	Moved Permanently for https://ristechy.com/?p=10620
+10:51:00	Warning: 	File has moved from https://ristechy.com/?p=10620 to https://ristechy.com/pes-2021-lite-ppsspp-psp-iso
+10:51:02	Warning: 	Moved Permanently for https://ristechy.com/?p=12447
+10:51:02	Warning: 	File has moved from https://ristechy.com/?p=12447 to https://ristechy.com/fts-22-mod-pes-2022-apk
+10:51:09	Warning: 	Moved Permanently for https://ristechy.com/?p=9084
+10:51:09	Warning: 	File has moved from https://ristechy.com/?p=9084 to https://ristechy.com/first-touch-soccer-2021-fts-21-mod-apk
+10:51:14	Warning: 	Moved Permanently for https://ristechy.com/?p=12602
+10:51:14	Warning: 	File has moved from https://ristechy.com/?p=12602 to https://ristechy.com/fts-22-mod-fifa-2022-apk-obb-data
+10:51:14	Error: 	"Not Found" (404) at link https://ristechy.com/tag/fts/page/i (from https://ristechy.com/tag/fts/page/2)
+10:51:14	Error: 	"Not Found" (404) at link https://ristechy.com/tag/fts/page/Firefox/ (from https://ristechy.com/tag/fts/page/2)
+10:51:18	Warning: 	Moved Permanently for https://ristechy.com/?p=143
+10:51:18	Warning: 	File has moved from https://ristechy.com/?p=143 to https://ristechy.com/download-fts-18-special-mod-by-bagas-bangkrenk-apk-obb
+10:51:18	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/uploads/2017/12/FTS18SpecialModbyBagasBangkrenk-1.png (from https://ristechy.com/download-fts-18-special-mod-by-bagas-bangkrenk-apk-obb)
+10:51:18	Warning: 	Moved Permanently for https://ristechy.com/?p=147
+10:51:18	Warning: 	File has moved from https://ristechy.com/?p=147 to https://ristechy.com/download-fts-mod-pes-2018-big-update-transfer
+10:51:22	Warning: 	Moved Permanently for https://ristechy.com/?p=148
+10:51:22	Warning: 	File has moved from https://ristechy.com/?p=148 to https://ristechy.com/download-fts-18-mod-by-fts-manager-and
+10:51:22	Warning: 	Moved Permanently for https://ristechy.com/?p=149
+10:51:22	Warning: 	File has moved from https://ristechy.com/?p=149 to https://ristechy.com/fts-mod-fifa-18-by-riady-poetra-apk-obb-download
+10:51:22	Warning: 	Moved Permanently for https://ristechy.com/?p=3916
+10:51:22	Warning: 	File has moved from https://ristechy.com/?p=3916 to https://ristechy.com/football-manager-2019-mobile-apk-android
+10:51:22	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/uploads/2018/10/FM-mobile-Club-selection-1-300x169.jpg (from https://ristechy.com/football-manager-2019-mobile-apk-android)
+10:51:22	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/uploads/2018/10/football-manager-19-1-300x169.jpg (from https://ristechy.com/football-manager-2019-mobile-apk-android)
+10:51:22	Warning: 	Moved Permanently for https://ristechy.com/?p=4002
+10:51:22	Warning: 	File has moved from https://ristechy.com/?p=4002 to https://ristechy.com/download-yoga-vpn-apk-39160-free
+10:51:22	Warning: 	Moved Permanently for https://ristechy.com/?p=11647
+10:51:22	Warning: 	File has moved from https://ristechy.com/?p=11647 to https://ristechy.com/best-free-antivirus-android
+10:51:24	Warning: 	Moved Permanently for https://ristechy.com/?p=122
+10:51:24	Warning: 	File has moved from https://ristechy.com/?p=122 to https://ristechy.com/vlc-2111-beta-apk
+10:51:24	Warning: 	Moved Permanently for https://ristechy.com/?p=125
+10:51:24	Warning: 	File has moved from https://ristechy.com/?p=125 to https://ristechy.com/download-kingroot-apk-for-android-51
+10:51:24	Warning: 	Moved Permanently for https://ristechy.com/kingroot-60-1-apk-download/
+10:51:24	Warning: 	File has moved from https://ristechy.com/kingroot-60-1-apk-download/ to https://ristechy.com/kingroot-60-1-apk-download
+10:51:24	Warning: 	Moved Permanently for https://ristechy.com/?p=14303
+10:51:24	Warning: 	File has moved from https://ristechy.com/?p=14303 to https://ristechy.com/dream-league-soccer-2023-dls-23-mod-apk
+10:51:24	Warning: 	Moved Permanently for https://ristechy.com/?p=13073
+10:51:24	Warning: 	File has moved from https://ristechy.com/?p=13073 to https://ristechy.com/dream-league-soccer-2021-dls-21-mod-apk-2
+10:51:24	Warning: 	Moved Permanently for https://ristechy.com/?p=6704
+10:51:24	Warning: 	File has moved from https://ristechy.com/?p=6704 to https://ristechy.com/fifa-20-mod-fifa-14-apk-offline
+10:51:24	Warning: 	Moved Permanently for https://ristechy.com/?p=2980
+10:51:24	Warning: 	File has moved from https://ristechy.com/?p=2980 to https://ristechy.com/fifa-19-mod-fifa-14-apk-offline
+10:51:24	Warning: 	Moved Permanently for https://ristechy.com/?p=7064
+10:51:24	Warning: 	File has moved from https://ristechy.com/?p=7064 to https://ristechy.com/pes-2020-apk-obb-android
+10:51:24	Warning: 	Moved Permanently for https://ristechy.com/?p=10502
+10:51:24	Warning: 	File has moved from https://ristechy.com/?p=10502 to https://ristechy.com/fifa-2021-ppsspp-psp-iso
+10:51:29	Warning: 	Moved Permanently for https://ristechy.com/?p=6279
+10:51:29	Warning: 	File has moved from https://ristechy.com/?p=6279 to https://ristechy.com/fts-mod-pes-2020-apk
+10:51:29	Warning: 	Moved Permanently for https://ristechy.com/?p=3704
+10:51:29	Warning: 	File has moved from https://ristechy.com/?p=3704 to https://ristechy.com/soccer-manager-2019-apk-sm-19
+10:51:29	Warning: 	Moved Permanently for https://ristechy.com/?p=7348
+10:51:29	Warning: 	File has moved from https://ristechy.com/?p=7348 to https://ristechy.com/dls-2020-gold-edition-mod-apk-dream-league-soccer-20
+10:51:29	Warning: 	Moved Permanently for https://ristechy.com/?p=2465
+10:51:29	Warning: 	File has moved from https://ristechy.com/?p=2465 to https://ristechy.com/fifa-14-mod-fifa-18-offline-android
+10:51:29	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/uploads/2018/08/fifa-14-mod-fifa-18-1-300x225.jpg (from https://ristechy.com/fifa-14-mod-fifa-18-offline-android)
+10:51:29	Error: 	"Not Found" (404) at link https://ristechy.com/tag/fifa-android-games/page/i (from https://ristechy.com/tag/fifa-android-games/page/2)
+10:51:29	Error: 	"Not Found" (404) at link https://ristechy.com/tag/fifa-android-games/page/Firefox/ (from https://ristechy.com/tag/fifa-android-games/page/2)
+10:51:33	Warning: 	Moved Permanently for https://ristechy.com/?p=5578
+10:51:33	Warning: 	File has moved from https://ristechy.com/?p=5578 to https://ristechy.com/fifa-soccer-2019-apk
+10:51:33	Warning: 	Moved Permanently for https://ristechy.com/?p=150
+10:51:33	Warning: 	File has moved from https://ristechy.com/?p=150 to https://ristechy.com/fts-mod-fifa-18-ultimate-team-by-xrtx-download
+10:51:33	Warning: 	Moved Permanently for https://ristechy.com/?p=8031
+10:51:33	Warning: 	File has moved from https://ristechy.com/?p=8031 to https://ristechy.com/soccer-manager-2020-apk
+10:51:33	Warning: 	Moved Permanently for https://ristechy.com/?p=10796
+10:51:33	Warning: 	File has moved from https://ristechy.com/?p=10796 to https://ristechy.com/football-manager-2021-mobile-fm-21-apk
+10:51:33	Warning: 	Moved Permanently for https://ristechy.com/?p=12942
+10:51:33	Warning: 	File has moved from https://ristechy.com/?p=12942 to https://ristechy.com/dream-league-soccer-2022-dls-22-mod-apk
+10:51:37	Warning: 	Moved Permanently for https://ristechy.com/?p=6768
+10:51:37	Warning: 	File has moved from https://ristechy.com/?p=6768 to https://ristechy.com/gta-5-lite-apk
+10:51:55	Warning: 	Moved Permanently for https://ristechy.com/?p=19489
+10:51:55	Warning: 	File has moved from https://ristechy.com/?p=19489 to https://ristechy.com/wwe-2k25-netflix-edition-mod-apk
+10:51:55	Warning: 	Moved Permanently for https://ristechy.com/?p=11658
+10:51:55	Warning: 	File has moved from https://ristechy.com/?p=11658 to https://ristechy.com/rally-fury-mod-apk
+10:51:55	Warning: 	Moved Permanently for https://ristechy.com/?p=5593
+10:51:55	Warning: 	File has moved from https://ristechy.com/?p=5593 to https://ristechy.com/naruto-ultimate-ninja-storm-4-ppsspp
+10:52:07	Warning: 	Moved Permanently for https://ristechy.com/?p=12733
+10:52:07	Warning: 	File has moved from https://ristechy.com/?p=12733 to https://ristechy.com/vive-le-football-apk-obb-data
+10:52:07	Warning: 	Moved Permanently for https://ristechy.com/?p=8042
+10:52:07	Warning: 	File has moved from https://ristechy.com/?p=8042 to https://ristechy.com/fifa-2020-ppsspp-psp-iso-offline
+10:52:07	Warning: 	Moved Permanently for https://ristechy.com/?p=9520
+10:52:07	Warning: 	File has moved from https://ristechy.com/?p=9520 to https://ristechy.com/fts-mod-pes-2021-apk-obb-data
+10:52:13	Warning: 	Moved Permanently for https://ristechy.com/?p=10570
+10:52:13	Warning: 	File has moved from https://ristechy.com/?p=10570 to https://ristechy.com/fts-21-mod-fifa-2021-apk-obb
+10:52:13	Warning: 	Moved Permanently for https://ristechy.com/?p=2555
+10:52:13	Warning: 	File has moved from https://ristechy.com/?p=2555 to https://ristechy.com/fts-mod-pes-2019-apk
+10:52:13	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/uploads/2018/08/fts-mod-pes-2019-apk-1-300x200.png (from https://ristechy.com/fts-mod-pes-2019-apk)
+10:52:13	Warning: 	Moved Permanently for https://ristechy.com/?p=115
+10:52:13	Warning: 	File has moved from https://ristechy.com/?p=115 to https://ristechy.com/fts-mod-fifa-18-ultimate-apk-obb
+10:52:13	Warning: 	Moved Permanently for https://ristechy.com/?p=6947
+10:52:13	Warning: 	File has moved from https://ristechy.com/?p=6947 to https://ristechy.com/fts-mod-fifa-2020-apk
+10:52:13	Warning: 	Moved Permanently for https://ristechy.com/?p=140
+10:52:13	Warning: 	File has moved from https://ristechy.com/?p=140 to https://ristechy.com/fifa-14-v136-mod-18-v2-by-jogress-apk
+10:52:13	Warning: 	Moved Permanently for https://ristechy.com/?p=133
+10:52:13	Warning: 	File has moved from https://ristechy.com/?p=133 to https://ristechy.com/download-pes-2018-pro-evolution-soccer
+10:52:53	Warning: 	Moved Permanently for https://ristechy.com/?p=10473
+10:52:53	Warning: 	File has moved from https://ristechy.com/?p=10473 to https://ristechy.com/garena-free-fire-apk-obb
+10:53:03	Warning: 	Moved Permanently for https://ristechy.com/?p=14663
+10:53:03	Warning: 	File has moved from https://ristechy.com/?p=14663 to https://ristechy.com/soccer-manager-2023-apk
+10:53:07	Warning: 	Moved Permanently for https://ristechy.com/?p=7108
+10:53:07	Warning: 	File has moved from https://ristechy.com/?p=7108 to https://ristechy.com/fts-20-mod-ucl-apk
+10:53:29	Warning: 	Moved Permanently for https://ristechy.com/?p=8793
+10:53:29	Warning: 	File has moved from https://ristechy.com/?p=8793 to https://ristechy.com/bussid-gold-apk
+10:53:29	Warning: 	Moved Permanently for https://ristechy.com/?p=2371
+10:53:29	Warning: 	File has moved from https://ristechy.com/?p=2371 to https://ristechy.com/dragon-city-mod-apk
+10:53:29	Warning: 	Moved Permanently for https://ristechy.com/?p=9398
+10:53:29	Warning: 	File has moved from https://ristechy.com/?p=9398 to https://ristechy.com/ninja-turtles-legends-apk
+10:53:29	Warning: 	Moved Permanently for https://ristechy.com/?p=17194
+10:53:29	Warning: 	File has moved from https://ristechy.com/?p=17194 to https://ristechy.com/wr3d-mod-apk-wwe-android
+10:53:41	Warning: 	Moved Permanently for https://ristechy.com/?p=17864
+10:53:41	Warning: 	File has moved from https://ristechy.com/?p=17864 to https://ristechy.com/wwe-2k24-ppsspp-psp-iso
+10:54:07	Warning: 	Moved Permanently for https://ristechy.com/?p=7684
+10:54:07	Warning: 	File has moved from https://ristechy.com/?p=7684 to https://ristechy.com/nba-2k20-apk-data-obb
+10:54:16	Warning: 	Moved Permanently for https://ristechy.com/?p=12821
+10:54:16	Warning: 	File has moved from https://ristechy.com/?p=12821 to https://ristechy.com/fifa-2019-ppsspp-psp-iso-save-data
+10:54:16	Warning: 	Moved Permanently for https://ristechy.com/?p=10782
+10:54:16	Warning: 	File has moved from https://ristechy.com/?p=10782 to https://ristechy.com/soccer-manager-2021-apk
+10:54:29	Warning: 	Moved Permanently for https://ristechy.com/?p=10402
+10:54:29	Warning: 	File has moved from https://ristechy.com/?p=10402 to https://ristechy.com/mini-militia-mod-apk-doodle-army-2
+10:54:29	Warning: 	Moved Permanently for https://ristechy.com/?p=18735
+10:54:29	Warning: 	File has moved from https://ristechy.com/?p=18735 to https://ristechy.com/wwe-2k25-ppsspp-psp-iso
+10:54:29	Warning: 	Moved Permanently for https://ristechy.com/?p=8287
+10:54:29	Warning: 	File has moved from https://ristechy.com/?p=8287 to https://ristechy.com/pubg-mobile-lite-apk
+10:54:29	Warning: 	Moved Permanently for https://ristechy.com/?p=8813
+10:54:29	Warning: 	File has moved from https://ristechy.com/?p=8813 to https://ristechy.com/bus-simulator-mod-apk-1
+10:54:29	Warning: 	Moved Permanently for https://ristechy.com/?p=12686
+10:54:29	Warning: 	File has moved from https://ristechy.com/?p=12686 to https://ristechy.com/wr3d-2k22-mod-wwe-2k22-apk-download-2
+10:54:29	Warning: 	Moved Permanently for https://ristechy.com/?p=12874
+10:54:29	Warning: 	File has moved from https://ristechy.com/?p=12874 to https://ristechy.com/wwe-2k22-ppsspp-psp-iso-0
+10:54:35	Warning: 	Moved Permanently for https://ristechy.com/?p=11565
+10:54:35	Warning: 	File has moved from https://ristechy.com/?p=11565 to https://ristechy.com/wwe-2k21-ppsspp-psp-apk-iso
+10:54:35	Warning: 	Moved Permanently for https://ristechy.com/?p=8509
+10:54:35	Warning: 	File has moved from https://ristechy.com/?p=8509 to https://ristechy.com/wwe-2k20-ppsspp-psp-apk-iso
+10:54:40	Warning: 	Moved Permanently for https://ristechy.com/?p=6326
+10:54:40	Warning: 	File has moved from https://ristechy.com/?p=6326 to https://ristechy.com/champions-of-the-fields-2019-apk
+10:54:58	Warning: 	Moved Permanently for https://ristechy.com/?p=2271
+10:54:58	Warning: 	File has moved from https://ristechy.com/?p=2271 to https://ristechy.com/anger-stick-5-mod-apk
+10:54:58	Warning: 	Moved Permanently for https://ristechy.com/?p=2782
+10:54:58	Warning: 	File has moved from https://ristechy.com/?p=2782 to https://ristechy.com/wwe-2k19-apk-obb-android
+10:54:58	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/uploads/2018/09/wwe-2k19-1-300x225.jpg (from https://ristechy.com/wwe-2k19-apk-obb-android)
+10:55:12	Warning: 	Moved Permanently for https://ristechy.com/?p=11541
+10:55:12	Warning: 	File has moved from https://ristechy.com/?p=11541 to https://ristechy.com/clash-royale-mod-apk
+10:55:12	Warning: 	Moved Permanently for https://ristechy.com/?p=117
+10:55:12	Warning: 	File has moved from https://ristechy.com/?p=117 to https://ristechy.com/asphalt-8-airborne-mod-apk-data
+10:55:12	Warning: 	Moved Permanently for https://ristechy.com/?p=1772
+10:55:12	Warning: 	File has moved from https://ristechy.com/?p=1772 to https://ristechy.com/asphalt-9-legends-apk-mod-android
+10:55:12	Warning: 	Moved Permanently for https://ristechy.com/?p=10663
+10:55:12	Warning: 	File has moved from https://ristechy.com/?p=10663 to https://ristechy.com/brother-in-arms-3-mod-apk
+10:55:28	Warning: 	Moved Permanently for https://ristechy.com/?p=2477
+10:55:28	Warning: 	File has moved from https://ristechy.com/?p=2477 to https://ristechy.com/fts-19-super-mod-update-transfer
+10:55:28	Warning: 	Moved Permanently for https://ristechy.com/?p=139
+10:55:28	Warning: 	File has moved from https://ristechy.com/?p=139 to https://ristechy.com/pes-2012-mod-season-201718-apk-obb
+10:55:35	Warning: 	Moved Permanently for https://ristechy.com/?p=146
+10:55:35	Warning: 	File has moved from https://ristechy.com/?p=146 to https://ristechy.com/dls-classic-mod-pes-2018-for-android
+10:55:35	Warning: 	Moved Permanently for https://ristechy.com/?p=116
+10:55:35	Warning: 	File has moved from https://ristechy.com/?p=116 to https://ristechy.com/winning-eleven-2012-we-2016-mod-apk
+10:55:35	Warning: 	Moved Permanently for https://ristechy.com/?p=131
+10:55:35	Warning: 	File has moved from https://ristechy.com/?p=131 to https://ristechy.com/pba2k17-apk-obb-free-download
+10:56:00	Warning: 	Moved Permanently for https://ristechy.com/?p=120
+10:56:00	Warning: 	File has moved from https://ristechy.com/?p=120 to https://ristechy.com/pba-2k17-apk-v22-with-obb
+10:56:09	Warning: 	Moved Permanently for https://ristechy.com/?p=2064
+10:56:09	Warning: 	File has moved from https://ristechy.com/?p=2064 to https://ristechy.com/8-ball-pool-apk-mod
+10:56:09	Warning: 	Moved Permanently for https://ristechy.com/?p=2381
+10:56:09	Warning: 	File has moved from https://ristechy.com/?p=2381 to https://ristechy.com/trials-frontier-mod-apk
+10:56:09	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/uploads/2018/07/trials-frontier-apk-2-1-300x188.jpg (from https://ristechy.com/trials-frontier-mod-apk)
+10:56:09	Warning: 	Moved Permanently for https://ristechy.com/?p=4008
+10:56:09	Warning: 	File has moved from https://ristechy.com/?p=4008 to https://ristechy.com/super-mario-run-apk-download
+10:56:09	Error: 	"Not Found" (404) at link https://ristechy.com/wp-content/uploads/2017/03/20170324_065406-1.jpg (from https://ristechy.com/super-mario-run-apk-download)
+10:56:16	Warning: 	Moved Permanently for https://ristechy.com/?p=9401
+10:56:16	Warning: 	File has moved from https://ristechy.com/?p=9401 to https://ristechy.com/pokemon-go-apk-download
+10:56:16	Warning: 	Moved Permanently for https://ristechy.com/?p=4754
+10:56:16	Warning: 	File has moved from https://ristechy.com/?p=4754 to https://ristechy.com/mobile-legend-bang-bang-mod-apk
+10:56:29	Warning: 	Moved Permanently for https://ristechy.com/?p=4770
+10:56:29	Warning: 	File has moved from https://ristechy.com/?p=4770 to https://ristechy.com/nba-2k19-apk-data
+10:56:29	Warning: 	Moved Permanently for https://ristechy.com/?p=2416
+10:56:29	Warning: 	File has moved from https://ristechy.com/?p=2416 to https://ristechy.com/pba-2k18-apk-obb
+10:56:30	Warning: 	Moved Permanently for https://ristechy.com/?p=10444
+10:56:30	Warning: 	File has moved from https://ristechy.com/?p=10444 to https://ristechy.com/score-match-mod-apk
+
+HTTrack Website Copier/3.49-6 mirror complete in 41 minutes 9 seconds : 2445 links scanned, 2157 files written (113306429 bytes overall) [68840330 bytes received at 27881 bytes/sec], 63967419 bytes transferred using HTTP compression in 1303 files, ratio 20%, 52.4 requests per connection
+(69 errors, 436 warnings, 0 messages)

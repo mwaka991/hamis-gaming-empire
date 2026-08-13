@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: WWE 2K25 PPSSPP &#8211; PSP Iso Save Data Textures Download	</title>
+	<atom:link href="https://ristechy.com/wwe-2k25-ppsspp-psp-iso/feed" rel="self" type="application/rss+xml" />
+	<link>https://ristechy.com/wwe-2k25-ppsspp-psp-iso</link>
+	<description></description>
+	<lastBuildDate>Mon, 26 Jan 2026 09:17:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: RisTechy		</title>
+		<link>https://ristechy.com/wwe-2k25-ppsspp-psp-iso#comment-65413</link>
+
+		<dc:creator><![CDATA[RisTechy]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 09:17:36 +0000</pubDate>
+		<guid isPermaLink="false">https://ristechy.com/?p=18735#comment-65413</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://ristechy.com/wwe-2k25-ppsspp-psp-iso#comment-65412&quot;&gt;Emmanuel why is it not showing me the real texture&lt;/a&gt;.
+
+Delete PSP folder and extract into internal memory of your device without entering any folder. Then load game from inside PSP folder.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://ristechy.com/wwe-2k25-ppsspp-psp-iso#comment-65412">Emmanuel why is it not showing me the real texture</a>.</p>
+<p>Delete PSP folder and extract into internal memory of your device without entering any folder. Then load game from inside PSP folder.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Emmanuel why is it not showing me the real texture		</title>
+		<link>https://ristechy.com/wwe-2k25-ppsspp-psp-iso#comment-65412</link>
+
+		<dc:creator><![CDATA[Emmanuel why is it not showing me the real texture]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 08:26:20 +0000</pubDate>
+		<guid isPermaLink="false">https://ristechy.com/?p=18735#comment-65412</guid>
+
+					<description><![CDATA[Please why is it not showing me the real texture]]></description>
+			<content:encoded><![CDATA[<p>Please why is it not showing me the real texture</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
